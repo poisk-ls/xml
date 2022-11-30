@@ -9,7 +9,11 @@ id | HTML | XML |
 -- | :--: |:--:|
 1 | HTML focused on how the data looks | XML focuses on the data than how it looks
 2 | HTML is **not a case sensitive language** | XML is **case sensitive language**
-
+3 | HTML is mainly concerned with the presentation of data | XML is mainly used for storing and transporting the data
+4 | HTML is **static** | XML is **dynamic**
+5 |
+6 | 
+7 | 
 
 
 ....
