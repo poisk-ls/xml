@@ -12,7 +12,7 @@ id | HTML | XML |
 3 | mainly concerned with the presentation of data | mainly used for storing and transporting the data
 4 | html is **static** | xml is **dynamic**
 5 | closing tag in **optional**| closing tag is **mandatory**
-6 | 
+6 | uses the predefined tag such as <b>, <br>
 7 | 
 
 
